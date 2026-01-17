@@ -9,5 +9,7 @@ Author: Lawanya
 5.View Last Seen code
 6.Adding the Audio Call Feature
 7.Adding the Video call feature
+8.Adding status option
+
 
 
